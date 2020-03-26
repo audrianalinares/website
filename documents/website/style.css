@@ -23,3 +23,25 @@ footer {
     height: 100px;
     width: 1024px;
 }
+h1 {
+    font-size: 100px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+a {
+    color: white;
+    font-family:cursive;
+
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
