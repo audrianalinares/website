@@ -1,0 +1,65 @@
+
+body {
+    background-color: black;
+    background-image: url(contactimage/2019-04-27\ 18_31_26.076.JPG);
+    background-size: cover;
+    background-position: center;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    width: 1024px;
+    text-align: left;
+    padding-bottom: 40px;
+}
+ nav {
+        width: 1024px;
+        text-align: center;
+        padding-top: 14px;
+        padding-bottom: 14px;
+ }
+main {
+    height: 400px;
+    width: 1024;
+    text-align: right;
+   padding-left: 240px;
+   padding-right: 240px;
+}
+footer {
+    height: 100px;
+    width: 1024px;
+}
+h1 {
+    font-size: 72pxpx;
+    color: black;
+    font-family:fantasy;
+    text-align: center;  
+}
+p {
+    font-size: 18px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    margin-left: 240px;
+    padding-top: 20px;
+   padding-left: 240px;
+   padding-right: 240px
+}
+a {
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
